@@ -1,1 +1,1 @@
-package com.tnsif.lambdaexpression;
+package com.tnsif.exceptionhandling;
