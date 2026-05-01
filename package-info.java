@@ -1,1 +1,1 @@
-package com.tnsif.javaabstract;
+package com.tnsif.collectionframework;
