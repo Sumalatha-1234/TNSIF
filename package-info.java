@@ -1,1 +1,1 @@
-package com.tnsif.inheritence;
+package com.tnsif.statickeyword;
